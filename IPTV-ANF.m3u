@@ -15,6 +15,8 @@ http://176.65.146.237:8401/play/a09r/index.m3u8
 http://176.65.146.237:8401/play/a0af/index.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es@SD" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="General;Public",Aragon TV (720p)
 https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+#EXTINF:-1 tvg-id="tdp.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="Lifestyle",tdp (1080p)
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8?hdnts=exp%3D1765776606%7Ehmac%3D5dee0ad8ff03302b8bda2f7b8d3c195c7772f01a7b0f5cdc5a423d2b6cfd5c1e&idasset=1712295
 #EXTINF:-1 tvg-id="Atreseries.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Series",Atreseries (1080p)
 http://176.65.146.237:8401/play/a0ai/index.m3u8
 #EXTINF:-1 tvg-id="Clan.es@SD" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids;Public",Clan (1280p)
@@ -31,5 +33,3 @@ http://176.65.146.237:8401/play/a0a5/index.m3u8
 http://176.65.146.237:8401/play/a0ag/index.m3u8
 #EXTINF:-1 tvg-id="Nova.es@SD" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="Lifestyle",Nova (1080p)
 http://176.65.146.237:8401/play/a0ah/index.m3u8
-#EXTINF:-1 tvg-id="tdp.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="Lifestyle",tdp (1080p)
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr.m3u8?hdnts=exp%3D1765776606%7Ehmac%3D5dee0ad8ff03302b8bda2f7b8d3c195c7772f01a7b0f5cdc5a423d2b6cfd5c1e&idasset=1712295
